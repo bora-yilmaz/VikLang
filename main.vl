@@ -1,0 +1,4 @@
+/echo "welcome"
+/str " "
+/calc "welcome"+stringmade+"here!"
+/echo calc
