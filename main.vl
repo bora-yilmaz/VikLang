@@ -1,4 +1,26 @@
-/echo "welcome"
-/str " "
-/calc "welcome"+stringmade+"here!"
-/echo calc
+set 1 2
+set 2 3
+add 3 r1 r2
+out 3
+com r3 r2
+jne 10
+sub 3 r2 r1
+out 3
+jum 12
+mul 3 r2 r1
+out 3
+set 4 79
+set 5 75
+set 6 10
+ech r4
+ech r5
+ech r6
+set 0 0
+set 14 1
+set 15 dummy/len
+set 13 0
+lfc dummy 1 r0
+ech r1
+add 0 r0 r14
+com r0 r15
+jul 22
